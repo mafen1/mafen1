@@ -1,6 +1,6 @@
 <div align="center">
 
-# Фролов Алексей
+# Frolov Alexey
 
 **Junior Android Developer**
 
