@@ -4,7 +4,7 @@
 
 **Junior Android Developer**
 
-Kotlin/Jetpack Compose, Room, WebSocket, Ktor и Docker. Спроектировал мессенджер со сквозным шифрованием — от архитектуры до docker-compose, и люблю, когда проект можно поднять одной понятной командой.
+Kotlin/Jetpack Compose, Room, WebSocket, Ktor и Docker. Спроектировал мессенджер со сквозным шифрованием.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@maafeeen-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maafeeen)
 [![Email](https://img.shields.io/badge/Email-frolalex07@yandex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frolalex07@yandex.com)
