@@ -72,7 +72,6 @@ Kotlin/Jetpack Compose, Room, WebSocket, Ktor и Docker. Спроектиров�
 | --- | --- | --- |
 | [MessageApp](https://github.com/mafen1/MessageApp) | Мессенджер со сквозным шифрованием (AES-GCM + RSA/Keystore): чаты, друзья и заявки, лента новостей, offline-first очередь отправки, авто-reconnect WebSocket, статусы доставки. Покрыт юнит-тестами. | Kotlin, Jetpack Compose, Room, WorkManager, Hilt, WebSocket, Retrofit |
 | [ServerMessage](https://github.com/mafen1/ServerMessage) | Backend мессенджера: WebSocket real-time + REST API, JWT с bcrypt (cost 12), rate limiting, хранилище обёрток ключей E2E с версионированием эпох, интеграционные тесты, Docker Compose. | Kotlin, Ktor, Exposed, PostgreSQL, HikariCP, JWT, Docker |
-| [AIAssistant](https://github.com/mafen1/AIAssistant) | Чат с LLM (Gemma 2B через MediaPipe GenAI), работающей полностью офлайн на устройстве: история диалогов в Room, MVVM на StateFlow. | Kotlin, MediaPipe GenAI, Room, Hilt |
 
 ## GitHub
 
