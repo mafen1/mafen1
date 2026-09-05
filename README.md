@@ -9,6 +9,7 @@ Kotlin/Jetpack Compose, Room, WebSocket, Ktor и Docker. Спроектиров�
 [![Telegram](https://img.shields.io/badge/Telegram-@maafeeen-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maafeeen)
 [![Email](https://img.shields.io/badge/Email-frolalex07@yandex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frolalex07@yandex.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mafen1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mafen1)
+[![Резюме PDF](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-PDF-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Frolov_Alexey_Android_Developer_RU.pdf)
 
 </div>
 
